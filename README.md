@@ -25,14 +25,3 @@ This repository contains step-by-step instructions to install and configure a **
 - NTP/chrony installed and running
 - Database already prepared for Cloudera Manager
 
-## Usage
-
-Follow the detailed installation guide:
-
-```bash
-cat install_kerberos.md
-```
-
-## License
-
-Internal documentation – for training and deployment only.
