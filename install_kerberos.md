@@ -80,7 +80,7 @@ sudo kdb5_util create -s
 ```bash
 sudo kadmin.local
 addprinc admin
-# enter (passwordnya)
+# enter (password)
 exit
 ```
 
@@ -124,7 +124,7 @@ telnet localhost 749
 Test login:
 ```bash
 kinit admin
-# enter (passwordnya)
+# enter (password)
 klist
 ```
 
